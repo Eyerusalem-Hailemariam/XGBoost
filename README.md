@@ -35,7 +35,4 @@ subsample=0.8, colsample_bytree=0.8, reg_alpha=1.0, reg_lambda=1.0
 ## Top Features (by gain)
 1. Total_Trans_Ct, 2. Total_Trans_Amt, 3. Total_Revolving_Bal, 4. Total_Relationship_Count, 5. Contacts_Count_12_mon
 
-## Files
-- `XGBoost.py` - Standalone implementation
-- `XGBoost_Implementation_labeled.ipynb` - Notebook with labels
-- `README.md` - This file
+
